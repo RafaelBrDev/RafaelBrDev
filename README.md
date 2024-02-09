@@ -16,5 +16,5 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://banner2.cleanpng.com/20180620/sou/kisspng-microsoft-sql-server-microsoft-azure-sql-database-5b2a129e075e46.9374719115294839340302.jpg)https://banner2.cleanpng.com/20180620/sou/kisspng-microsoft-sql-server-microsoft-azure-sql-database-5b2a129e075e46.9374719115294839340302.jpg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png">
 </div>
