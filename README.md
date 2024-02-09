@@ -16,5 +16,6 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://services.assemblysoft.com/content/images/2020/11/1200px-.NET_Logo.svg.png">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
 </div>
