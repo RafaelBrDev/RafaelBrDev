@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RafaelBrDev (Rafael do Nascimento).
-- 👀 I’m interested in HTML, CSS, JavaScript, React, React Native, C# && SQL Server.
+- 👀 I’m interested in HTML, CSS, JavaScript, React, React Native, C# and SQL Server.
 - 📫 How to reach me rafael.nascimento.santos1@outlook.com.
 
 <br />
